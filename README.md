@@ -1,7 +1,7 @@
 SpreeSimpleSales
 ================
 
-Introduction goes here.
+Following along with [the tutorial](https://guides.spreecommerce.com/developer/extensions_tutorial.html).
 
 Installation
 ------------
